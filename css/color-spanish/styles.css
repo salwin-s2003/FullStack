@@ -1,0 +1,68 @@
+p[id='red']{
+    color: red;
+    font-size: 25px;
+    font-weight: normal;
+    text-shadow: 1px 1px 0 black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+}
+   
+p[id='blue']{
+    color: blue;
+    font-size: 25px;
+    font-weight: normal;
+    text-shadow: 1px 1px 0 black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+}
+
+p[id='green']{
+    color: green;
+    font-size: 25px;
+    font-weight: normal;
+    text-shadow: 1px 1px 0 black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+}
+p[id='yellow']{
+    color: yellow;
+    font-size: 25px;
+    font-weight: normal;
+    text-shadow: 1px 1px 0 black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+}
+p[id='black']{
+    color: black;
+    font-size: 25px;
+    font-weight: normal;
+    text-shadow: 1px 1px 0 red, -1px -1px 0 red, 1px -1px 0 red, -1px 1px 0 red;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+ol {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left; /* Aligns the text and numbers to the left */
+    margin-left: 0; /* Removes unnecessary left margin */
+    margin-top: 0px;
+    list-style-position: inside; /* Ensures numbers are outside the content box */
+}
+
+*{
+    background-color:#fdf6e3;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
