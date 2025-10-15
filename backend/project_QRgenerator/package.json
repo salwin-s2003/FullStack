@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "learning how to generator qr code from a user input link",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
